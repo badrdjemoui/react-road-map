@@ -3,7 +3,7 @@ If you want to learn React very fast, you should focus on the most essential con
 
 ## 1. Basics (1 Day)
 
-## > Install Node.js and npm.
+> ##  Install Node.js and npm.
 
 ## Create a new React project:
 
