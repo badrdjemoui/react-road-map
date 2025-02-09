@@ -1,7 +1,7 @@
 
 link to markdownguide is [markdownguide](https://www.markdownguide.org/basic-syntax/).
 
-# <font color="red">react-road-map </font>
+# <p style="color:blue">react-road-map </p>
 If you want to learn React very fast, you should focus on the most essential concepts first. Here's a structured plan:
 
 ## 1. Basics (1 Day)
