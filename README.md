@@ -1,7 +1,7 @@
 # react-road-map
 If you want to learn React very fast, you should focus on the most essential concepts first. Here's a structured plan:
 
-1. Basics (1 Day)
+<h1>1. Basics (1 Day)</h1>
 
 Install Node.js and npm.
 
