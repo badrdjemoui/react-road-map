@@ -19,7 +19,7 @@ Learn about Components (Functional & Class).
 
 Props & State.
 
-3. Intermediate Concepts (1-2 Days)
+2. Intermediate Concepts (1-2 Days)
 
 Handling events.
 
@@ -30,14 +30,14 @@ Conditional rendering (if, ternary, &&).
 Lists and keys (map() function).
 
 
-4. React Router (1 Day)
+3. React Router (1 Day)
 
 Install React Router:
 npm install react-router-dom
 
 Create multiple pages and navigate between them.
 
-5. API Calls & Fetching Data (1 Day)
+4. API Calls & Fetching Data (1 Day)
 
 Fetching data using fetch() or Axios.
 
@@ -45,13 +45,13 @@ Handling loading and errors.
 
 Using useEffect for API calls.
 
-7. Context API & State Management (2 Days)
+5. Context API & State Management (2 Days)
 
 Learn Context API for global state.
 
 Introduction to Redux (optional if you need advanced state management).
 
-9. Advanced Topics (3-5 Days)
+6. Advanced Topics (3-5 Days)
 
 React Forms (controlled & uncontrolled components).
 
@@ -61,7 +61,7 @@ Performance Optimization (memo, useCallback, useMemo).
 
 Deployment (Vercel, Netlify, or Firebase).
 
-11. Build a Small Project (2-3 Days)
+7. Build a Small Project (2-3 Days)
 
 7.1 To-Do List
 
