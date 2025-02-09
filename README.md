@@ -24,7 +24,7 @@ If you want to learn React very fast, you should focus on the most essential con
 > >✅ Conditional rendering works with ternary (? :) and &&.
 > >✅ Lists should use .map() with a unique key.
 
-Learn about Components (Functional & Class).
+> ## Learn about Components (Functional & Class).
 
 Props & State.
 
