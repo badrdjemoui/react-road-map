@@ -17,6 +17,12 @@ If you want to learn React very fast, you should focus on the most essential con
 > ## npm start
 
 > ## Understand **JSX** (JavaScript + HTML).
+> >✅ JSX allows writing HTML-like syntax inside JavaScript.
+> >✅ JSX must have a single parent element.
+> >✅ You can embed JavaScript using {}.
+> >✅ Use className instead of class.
+> >✅ Conditional rendering works with ternary (? :) and &&.
+> >✅ Lists should use .map() with a unique key.
 
 Learn about Components (Functional & Class).
 
