@@ -38,7 +38,7 @@ Custom Hooks.
 Performance Optimization (memo, useCallback, useMemo).
 Deployment (Vercel, Netlify, or Firebase).
 7. Build a Small Project (2-3 Days)
-To-Do List
-Weather App
-E-commerce Cart
-Chat App (Firebase)
+7.1 To-Do List
+7.2 Weather App
+7.3 E-commerce Cart
+7.4 Chat App (Firebase)
